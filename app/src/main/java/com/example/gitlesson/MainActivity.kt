@@ -9,7 +9,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+
         val string = "Hello World"
         Log.d("string", string)
     }
+
+    private fun newFeature() {}
 }
