@@ -15,4 +15,8 @@ class MainActivity : AppCompatActivity() {
     private fun newFeature() {
         Toast.makeText(this,"hello", Toast.LENGTH_SHORT).show()
     }
+
+    private fun secondFeature() {
+        println("Fuck")
+    }
 }
