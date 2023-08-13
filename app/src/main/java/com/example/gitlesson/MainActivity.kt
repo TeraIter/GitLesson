@@ -12,4 +12,6 @@ class MainActivity : AppCompatActivity() {
         val string = "Hello World"
         Log.d("string", string)
     }
+
+    private fun newFeature() {}
 }
