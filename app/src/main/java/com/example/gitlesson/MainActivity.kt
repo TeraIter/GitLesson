@@ -15,4 +15,8 @@ class MainActivity : AppCompatActivity() {
     }
 
     private fun newFeature() {}
+
+    private fun secondFeature() {
+        println("Fuck")
+    }
 }
