@@ -27,5 +27,5 @@ class MainActivity : AppCompatActivity() {
     private fun anotherOne() {}
 
 
-
+    private fun zhakosFunctions() {}
 }
